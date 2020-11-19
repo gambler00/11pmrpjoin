@@ -1,0 +1,6 @@
+<section id="home">
+    <div id="home-slider" class="carousel slide carousel-fade" data-ride="carousel">
+        <div class="carousel-inner">
+			<div class="item active" style="background-image: url(img/loading-screen.mp4) ;     background-attachment: fixed;
+			background-size: cover;">
+   <section id="intro">
